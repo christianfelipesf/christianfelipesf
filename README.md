@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Felipe</h1>
-<h3 align="center">Sou atualmente atendente Atendente da Maxx Internet Em Santa Rita (MA),</h3>
+<h3 align="center">Trabalho atualmente com atendimento da Maxx Em Santa Rita (MA),</h3>
 
 - 🔭 I’m currently working on **Auxiliar Administrativo**
 
